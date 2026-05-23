@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Power BI
+*.pbix
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Credentials
+credentials.json
+secrets.json
+
+# Temp
+temp/
+tmp/
