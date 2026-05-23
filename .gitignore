@@ -1,0 +1,10 @@
+.env
+*.key
+*.pem
+credentials.json
+config.local.json
+__pycache__/
+*.pyc
+exports/latest/*.csv
+exports/archive/
+.DS_Store
